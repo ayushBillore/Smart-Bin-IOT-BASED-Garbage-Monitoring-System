@@ -13,17 +13,18 @@ Smart Bin is an IoT-based garbage monitoring system designed to optimize waste m
 
 ## How It Works
 1. The ultrasonic sensor detects the waste level in the bin.
+2. 
     ![iot smart bin](https://github.com/user-attachments/assets/9b5b3875-09ae-42ae-bc26-5163d82f93f6)
-3. The microcontroller processes the data and transmits it to the cloud.
-   ![smart bin2](https://github.com/user-attachments/assets/331f4233-a5e3-4443-98f6-feedec826dc8)
    
-   ![smart bin 3](https://github.com/user-attachments/assets/b922fe28-ec8f-4335-a897-de7173def8bd)
-
-
+4. The microcontroller processes the data and transmits it to the cloud.
 5. The dashboard visualizes the bin status, and alerts are triggered if the bin reaches a threshold.
 6. Authorities receive notifications for timely waste collection.
   
+## 📸 Proof of Working  
 
-
+![smart bin2](https://github.com/user-attachments/assets/331f4233-a5e3-4443-98f6-feedec826dc8)
+  
+![smart bin 3](https://github.com/user-attachments/assets/b922fe28-ec8f-4335-a897-de7173def8bd)
+     
 This smart waste management solution helps reduce overflowing bins, optimize collection routes, and contribute to a cleaner environment.
 
