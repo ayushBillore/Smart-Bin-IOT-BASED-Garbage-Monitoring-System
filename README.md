@@ -116,7 +116,15 @@ The system is divided into two components:
 
 ---
 
-## 🙌 Contribution & License
+## 👨‍💻 Contributors
 
-Feel free to fork and customize.
+- [Tejashvi Raj](https://www.linkedin.com/in/tejashviraj19/)
+- [Ayush Billore](https://www.linkedin.com/in/ayush-billore-aaab49251/)
+
+
+---
+
+## 🔗 More Details
+
+Visit: [linkedin.com/in/tejashviraj19/details/projects](https://www.linkedin.com/in/tejashviraj19/details/projects/) 
 
