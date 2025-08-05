@@ -14,7 +14,7 @@ The system is divided into two components:
 
 ### 2. ESP32-Based Level Monitoring
 - Measures the dustbin fill level using another ultrasonic sensor
-- Displays status using LEDs
+- Displays status using LED
 - Sends data to the Blynk app
 
 ---
