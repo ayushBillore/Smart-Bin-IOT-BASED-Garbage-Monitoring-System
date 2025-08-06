@@ -29,11 +29,12 @@ void loop() {
   // Read echo time
   duration = pulseIn(echoPin, HIGH);
 
-  // Calculate distance in cm
+  // Calculate distance in cms
   distance = duration * 0.034 / 2;
 
   // Check if distance is below threshold
   if (distance <= openThreshold) {
+
     // Open lid
     myservo.write(70);  // Reverse direction (open)
     delay(1000);        // Run to open fully
